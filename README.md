@@ -1,2 +1,2 @@
 # DES
-DES 加密算法 通过 Rust 实现
+DES 加解密算法 通过 Rust 实现
